@@ -1,2 +1,10 @@
 # post-wp-scrape-content
-BeautifulSoupでスクレイピングして、wordpressにpostする
+
+# Overview
+Beautiful Soupでスクレイピングして、wordpressにpostするプログラムです。
+
+動作環境
+Python3
+GCP Cloud Functionで動作
+
+
